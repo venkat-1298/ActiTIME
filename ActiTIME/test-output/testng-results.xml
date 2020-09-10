@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="140321" started-at="2020-09-10T16:01:51 IST" finished-at="2020-09-10T16:04:12 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="140321" started-at="2020-09-10T16:01:51 IST" finished-at="2020-09-10T16:04:12 IST">
+      <class name="com.actitime.test.CreateCustomer">
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:com.actitime.test.CreateCustomer@5a8806ef]" name="openBrowser" is-config="true" duration-ms="36611" started-at="2020-09-10T16:01:52 IST" finished-at="2020-09-10T16:02:28 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="login()[pri:0, instance:com.actitime.test.CreateCustomer@5a8806ef]" name="login" is-config="true" duration-ms="2266" started-at="2020-09-10T16:02:29 IST" finished-at="2020-09-10T16:02:31 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="testCreateCustomer()[pri:0, instance:com.actitime.test.CreateCustomer@5a8806ef]" name="testCreateCustomer" duration-ms="80950" started-at="2020-09-10T16:02:31 IST" finished-at="2020-09-10T16:03:52 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCreateCustomer -->
+        <test-method status="PASS" signature="logout()[pri:0, instance:com.actitime.test.CreateCustomer@5a8806ef]" name="logout" is-config="true" duration-ms="15245" started-at="2020-09-10T16:03:52 IST" finished-at="2020-09-10T16:04:08 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.actitime.test.CreateCustomer@5a8806ef]" name="closeBrowser" is-config="true" duration-ms="3108" started-at="2020-09-10T16:04:09 IST" finished-at="2020-09-10T16:04:12 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.actitime.test.CreateCustomer -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
